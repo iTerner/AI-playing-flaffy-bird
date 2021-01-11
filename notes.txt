@@ -1,0 +1,6 @@
+population 30:
+gen 5 gave me a score over 150
+
+modify fitness_threshold for highest score
+
+fitness_threshold 1000 stoped at ~ 210

@@ -1,0 +1,5 @@
+in order to run this program you need to install pygame and neat-python
+
+write this lines in the cmd window:
+pip install pygame
+pip install neat-python
